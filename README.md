@@ -1,4 +1,4 @@
-Image Classification with TensorFlow
+Image classification with CNN model
 This repository contains a Python script (image_classification.py) for training a convolutional neural network (CNN) model using TensorFlow to classify images of strawberry plants into different categories.
 The script utilizes TensorFlow's high-level API, Keras, for building and training the model.
 Functionality
